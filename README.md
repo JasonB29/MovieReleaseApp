@@ -9,7 +9,7 @@ The detail view provides a synopsis of the movie plus an option for the user to 
 # Pre-requisites
 
 1. XCode and XCode simulator are needed to run this application.
-2. A TMDB API Key is needed in order for the network call to work properly, as TMDB requires the key to be sent in the HTTP request for the service to work properly. Once you have signed up for an account, the following link provides instructions on how to obtain an API Key: https://developers.themoviedb.org/3/getting-started/authentication
+2. A TMDB API Key is needed in order for the network call as TMDB requires the key to be sent in the HTTP request for the service to work properly. Once you have signed up for an account, the following link provides instructions on how to obtain an API Key: https://developers.themoviedb.org/3/getting-started/authentication
 3. Once an API Key is obtained, copy and paste into the 'Settings' page and the key will be saved for future use on your device.
 
  <img width="500" alt="SettingsView" src="https://user-images.githubusercontent.com/37980812/137292853-c1bb9f7f-126a-470a-8fe8-3e8403135edd.png">
